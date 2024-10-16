@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://osengtona.github.io/sitemap.html.gz
+Sitemap: https://osengtona.github.io/app/sitemap.html.gz
+Sitemap: https://osengtona.github.io/assets/sitemap.html.gz
+Sitemap: https://osengtona.github.io/css/sitemap.html.gz
+Sitemap: https://osengtona.github.io/includes/sitemap.html.gz
+Sitemap: https://osengtona.github.io/item/sitemap.html.gz
+Sitemap: https://osengtona.github.io/src/sitemap.html.gz
